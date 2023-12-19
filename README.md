@@ -1,9 +1,9 @@
 # blogWebApp
 This lightweight blog application leverages the power of Node.js, Express.js, and EJS to deliver a functional and user-friendly experience without the complexity of a database.
 
-    Node.js: Acts as the backbone of the application, providing an efficient runtime environment for JavaScript execution.
-    Express.js: A popular web framework, simplifies backend development and manages routes, middleware, and data communication.
-    EJS: A simple yet powerful templating engine, allowing for dynamic generation of HTML content based on JavaScript variables and logic.
+    - Node.js: Acts as the backbone of the application, providing an efficient runtime environment for JavaScript execution.
+    - Express.js: A popular web framework, simplifies backend development and manages routes, middleware, and data communication.
+    - EJS: A simple yet powerful templating engine, allowing for dynamic generation of HTML content based on JavaScript variables and logic.
 
 ## Core Features:
 

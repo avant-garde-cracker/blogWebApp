@@ -28,3 +28,7 @@ This lightweight blog application leverages the power of Node.js, Express.js, an
 
     - The application utilizes CSS frameworks like Bootstrap or Tailwind CSS to ensure the layout adapts to different screen sizes.
     - This ensures a smooth and enjoyable experience for users, regardless of whether they access the blog on a desktop, tablet, or mobile device.
+    
+![home_page](https://github.com/avant-garde-cracker/blogWebApp/screenshot-1.png)
+![create_post_page](https://github.com/avant-garde-cracker/blogWebApp/screenshot-2.png)
+![view_posts](https://github.com/avant-garde-cracker/blogWebApp/screenshot-3.png)

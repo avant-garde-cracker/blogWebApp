@@ -96,6 +96,16 @@ border: #3586ff solid;
     margin: 0;
     padding-bottom: 16px;
 }
+@media (max-width: 480px){
+  .lists > p {
+    padding-left: 28%;
+  }
+}
+@media (min-width: 700px) and (max-width: 1084px){
+  .lists > p {
+    padding-left: 40%;
+  }
+}
 .waves{
     display: grid;
     grid-template-columns: repeat(4, 1fr);
